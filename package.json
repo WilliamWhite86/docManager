@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "googleapis": "^89.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "docmanager",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamWhite86/docManager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamWhite86/docManager/issues"
+  },
+  "homepage": "https://github.com/WilliamWhite86/docManager#readme"
+}
